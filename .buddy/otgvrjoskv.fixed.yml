@@ -1,0 +1,4 @@
+- pipeline: otgvrjoskv
+  refs:
+  - refs/heads/master
+  on: CLICK
